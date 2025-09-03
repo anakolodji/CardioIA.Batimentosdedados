@@ -1,6 +1,6 @@
 # Conversor de PDF para Texto - CardioIA
 
-Este aplicativo converte automaticamente todos os arquivos PDF na pasta `docs/` para formato de texto (.txt) e os organiza na pasta `docs/.txt/`.
+Esta aplicação converte automaticamente todos os arquivos PDF na pasta `docs/` para formato de texto (.txt) e os organiza na pasta `docs/.txt/`.
 
 ## Pré-requisitos
 

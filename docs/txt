@@ -1,0 +1,8 @@
+<script>start("/Users/anakolodji/Desktop/ia/CardioIA/CardioIA.Batimentosdedados/docs/.txt/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("1_diretriz_prevencao_cardiovascular_sbc_2013.txt","1_diretriz_prevencao_cardiovascular_sbc_2013.txt",0,388563,"379 kB",1756902827,"03/09/2025, 09:33:47");</script>
+<script>addRow("2_artigo_insuficiencia_cardiaca_scielo.txt","2_artigo_insuficiencia_cardiaca_scielo.txt",0,43999,"43.0 kB",1756902762,"03/09/2025, 09:32:42");</script>
+<script>addRow("3_relatorio_estatistica_cardiovascular_brasil_intro.txt","3_relatorio_estatistica_cardiovascular_brasil_intro.txt",0,989214,"966 kB",1756902809,"03/09/2025, 09:33:29");</script>
+<script>addRow("4_gutenberg_cases_organic_diseases_heart.txt","4_gutenberg_cases_organic_diseases_heart.txt",0,116176,"113 kB",1756860746,"02/09/2025, 21:52:26");</script>
+<script>addRow("5_gutenberg_disturbances_of_the_heart.txt","5_gutenberg_disturbances_of_the_heart.txt",0,582154,"569 kB",1756860739,"02/09/2025, 21:52:19");</script>
+<script>addRow("6_gutenberg_arteriosclerosis_hypertension.txt","6_gutenberg_arteriosclerosis_hypertension.txt",0,462934,"452 kB",1756860731,"02/09/2025, 21:52:11");</script>
