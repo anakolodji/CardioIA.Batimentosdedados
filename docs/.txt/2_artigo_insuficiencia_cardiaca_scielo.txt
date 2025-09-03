@@ -1,0 +1,485 @@
+Arq Bras Cardiol BarrAetttou &al iRzaamçiãreos
+volume 71, (nº 4), 1998 Insuficiência cardíaca
+Insuficiência Cardíaca
+Antonio Carlos Pereira Barretto, José Antonio Franchini Ramires
+São Paulo, SP
+Os conhecimentos sobre insuficiência cardíaca (IC) vida é muito pequena. Por outro lado, a terapêutica com
+aumentaram muito nos últimos anos, conhecemos melhor inibidores da enzima conversora da angiotensina (ECA)
+sua fisiopatologia, sua história natural, temos novas op- pode modificar esta história.
+ções terapêuticas que permitem modificar sua evolução. Entretanto, é importante ressaltar, que em suas formas
+Hoje, apesar do grande desenvolvimento tecnológico iniciais esta evolução não é tão ruim, fato que deve ser con-
+e maiores recursos farmacológicos, a incidência de IC vem siderado no momento de tomada de decisão mais agressiva.
+aumentando. Este aumento, em parte, decorre do envelhe- Já salientamos que a doença apresenta alta mortalidade nas
+cimento da população, pois nos mais idosos a IC é mais formas avançadas. Se os pacientes se tornam pouco sinto-
+freqüente. De outra parte podemos considerar que, uma vez máticos ou são assintomáticos, apesar de apresentarem, às
+que se morre menos em decorrência da cardiopatia de base, vezes sinais de intenso comprometimento cardíaco (exem-
+convive-se mais com as doenças, sendo a fase final comum plo: FE<25%), são muitas as evidências de que sua evolução
+das doenças cardiológicas, a IC, o que a torna mais freqüente. possa ser boa, apesar do comprometimento cardíaco.
+A IC continua sendo uma síndrome de características Dados dos estudos SOLVD prevenção e SAVE de-
+malignas, com alta mortalidade nas formas avançadas 1,2. monstram esta afirmação 8,9. Esses estudos demonstraram
+Vários estudos mostraram que atinge a 50% em um ano, em que disfunção ventricular é achado mais freqüente do que
+pacientes na classe funcional (CF) IV da New York Heart pensávamos. Neles foi possível identificar mais de 6000 pa-
+Association e torna-se maior naqueles que necessitam su- cientes assintomáticos e com FE <40%. A análise da evolu-
+porte inotrópico para sua compensação (fig. 1). Por outro ção dos grupos placebos desses estudos permitiu conhe-
+lado, pacientes pouco sintomáticos têm boa evolução, mes- cer a história natural da forma inicial de manifestação clínica
+mo que apresentem fração de ejeção (FE) bastante reduzida.
+de IC. Desses pacientes cerca de 35% vieram apresentar IC
+Esta história natural pode ser modificada com a corre-
+manifesta em quatro anos (fig. 3), demonstrando que nem
+ção da cardiopatia, controle dos fatores de agravamento da
+todos portadores de disfunção ventricular apresentarão li-
+IC ou através de algumas medicações, mas também, pode se
+mitação física significativa. Por outro lado a alta mortalida-
+tornar mais grave por outras drogas 3-6. Procuraremos rever
+de, descrita nas formas avançadas, não é de todo observa-
+neste artigo alguns destes aspectos.
+da nos assintomáticos, mesmo que com importante disfun-
+ção ventricular. Os dados destes dois estudos mostram que
+História natural
+a mortalidade em quatro anos será inferior a 25% (fig. 4).
+Assim não se pode, no momento de equacionar a me-
+A IC é uma afecção muito limitante 7. Análise da quali-
+lhor terapêutica, fazer analogias com as formas mais avança-
+dade de vida, por meio de questionários, em diferentes
+das. Assim, propostas como transplante ou ventriculecto-
+doenças, identificou a IC como uma das mais limitantes,
+mia parcial não estão indicadas nos pacientes assintomáti-
+mais que diabetes, doença pulmonar obstrutiva crônica, etc.
+cos, pois seu risco, nesta fase da doença, é maior que o ob-
+Dispnéia, cansaço, edema provocam muito desconforto aos
+servado na história natural.
+seus portadores e explicam este achado.
+Entre os pacientes sintomáticos a evolução não é igual
+Como já referido ao lado de ser doença limitante, seus
+em todos os casos. Quanto mais sintomático pior a evolu-
+portadores podem apresentar alta mortalidade. Análise dos
+ção 10. Podemos também estratificar os pacientes com base
+resultados dos estudos CONSENSUS, SOLVD tratamento e
+em vários dados clínicos ou laboratoriais. Assim têm melhor
+SOLVD prevenção 3,4,8, que estudaram respectivamente pa-
+evolução aqueles com maior capacidade física, analisada
+cientes em CF III/IV, II/III e I demonstra, que quanto pior a
+pelo tempo de esforço ao teste ergométrico, ou pela maior
+CF menor o tempo de sobrevida (fig. 2). Conforme mencio-
+distância percorrida no teste de 6min, ou com maior consu-
+nado, em pacientes muito sintomáticos, a expectativa de
+mo de oxigênio pela ergoespirometria. Dados de função car-
+díaca também identificam pacientes de pior prognóstico.
+Menor débito cardíaco, maior pressão de capilar pulmonar,
+Instituto do Coração do Hospital das Clínicas - FMUSP maior resistência periférica, menor FE, são sinônimos de
+Correspondência: Antonio Carlos Pereira Barretto - Incor - Av. Dr. Enéas C. maior mortalidade. Dados sobre anatomia também são úteis
+Aguiar, 44 - 05403-000 - São Paulo, SP
+nesta estratificação, pois cardiomegalia, diâmetros ventri-
+Recebido para publicação em 4/5/98
+Aceito em 24/6/98 culares e atriais maiores identificam grupos de maior risco.
+635
+Barretto & Ramires Arq Bras Cardiol
+Insuficiência cardíaca volume 71, (nº 4), 1998
+O conhecimento da evolução dos portadores de IC e
+sua estratificação são fundamentais no momento da esco-
+lha da melhor forma de tratamento.
+Fisiopatologia
+Hoje, sabemos que é possível modificar a história natu-
+ral da IC, quer pela terapêutica medicamentosa, quer pela
+cirúrgica 3,4,6. A compreensão da sua fisiopatologia permite
+entender o porquê das muitas alterações observadas nos
+Fig. 1 - Curva de sobrevida de 100 pacientes com cardiomiopatia dilatada e insufi- pacientes, auxiliando sua orientação.
+ciência cardíaca que necessitaram suporte inotrópico durante a internação para com-
+Quando ocorre queda da função cardíaca, mecanis-
+pensação. Observar a alta mortalidade com um ano de seguimento.
+mos adaptativos são estimulados procurando corrigir a
+disfunção ventricular 11. Nos pequenos danos miocárdicos
+estes conseguem melhorar a função e, muitas vezes, norma-
+lizá-la. Nos comprometimentos maiores estes mecanismos
+são insuficientes e muitas vezes a sua contínua estimulação
+pode provocar um círculo vicioso que pode levar a futura
+deterioração da função cardíaca.
+O mecanismo de Frank-Starling é usualmente um dos
+primeiros a ser estimulado e melhora a função cardíaca. Nas
+lesões maiores não é suficiente e a continua dilatação car-
+díaca dela advinda se torna um mecanismo desadaptativo.
+Vários estudos mostram que a continua dilatação (remode-
+lação ventricular), é deletéria e que quanto maior a dilatação
+ventricular pior o prognóstico do paciente 3,4,9.
+Fig. 2 - Curvas de mortalidade com dados dos estudos CONSENSUS e SOLVD, A estimulação simpática e a neuro-humoral também
+mostrando maior mortalidade quanto maior a classe funcional dos pacientes estuda-
+podem ser adaptativas no início dos quadros, mas a sua
+dos e sua redução com o emprego de inibidores da enzima conversora.
+perpetuação ou maior intensidade de estimulação é deleté-
+ria para o coração.
+Análise dos dados dos grandes estudos multicêntri-
+cos em IC permitiram compreender melhor a estimulação
+neuro-humoral e como ocorre esta estimulação. Na fase ini-
+cial aumentam principalmente os neuro-hormônios com efei-
+to vasodilatador, como o fator atrial natriurético, que induz
+vasodilatação arterial e conseqüente melhora da função
+cardíaca (fig. 5). Nos casos de dano cardíaco de pequena
+monta, esta estimulação é suficiente para normalização da
+função cardíaca. Nos danos mais extensos a maior estimula-
+ção neuro-humoral se faz com predomínio dos neuro-hor-
+mônios com efeito vasoconstritor, que induzem aumento da
+Fig. 3 - Curvas mostrando o percentual de pacientes dos estudos SAVE e SOLVD que
+necessitaram tratamento para insuficiência cardíaca em 4 anos de seguimentos.
+Fig. 5 - Gráfico de barras mostrando o percentual de aumento dos neuro-hormônios,
+Fig. 4 - Curvas de mortalidade dos pacientes estudados nos estudos SAVE e em relação aos normais, dos pacientes com disfunção ventricular (FE <40%)
+SOLVD. Observar que pacientes em classe funcional I, tiveram menor mortalidade. assintomáticos. Dados do estudo SAVE.
+636
+Arq Bras Cardiol Barretto & Ramires
+volume 71, (nº 4), 1998 Insuficiência cardíaca
+resistência e piora da função cardíaca, levando o coração
+para um círculo vicioso de agravamento progressivo 12,13. De
+há muito documentou-se que nas formas avançadas, quan-
+to maior os níveis de noradrenalina, adrenalina, renina,
+arginina-vasopressina, pior a evolução e maior a mortalidade.
+Hoje sabemos que alguns medicamentos, mas não todos,
+podem melhorar a história natural da IC. Drogas que modu-
+lem esta estimulação neuro-humoral aumentada são aquelas
+que influenciam positivamente a evolução da doença 3,4.
+A hipertrofia miocárdica é outro mecanismo adaptati-
+vo importante para a compensação do coração. Entretanto, Fig. 6 - Curvas mostrando o percentual de pacientes que não pioraram com a retirada
+do digital. Dados dos estudos RADIANCE e PROVED.
+quando imaginamos a hipertrofia, o fazemos considerando
+que esta ocorreria por aumento de miócitos e conseqüente
+melhora do desempenho cardíaco. Mas na IC, a hipertrofia do nesta situação e, em alguns, não deve ser prescrita. O
+ocorre por aumento dos níveis de neuro-hormônios, estí- mesmo se dá em relação a pacientes com infarto do miocár-
+mulo este que além da hipertrofia de miócitos induz prolife- dio, situação em que se observa aumento de mortalidade,
+ração do interstício, provoca um aumento da fibrose, acar- quando do seu emprego.
+retando efeitos deletérios ao coração 14. A dúvida, se a droga seria eficaz nas formas avança-
+Recentemente, novas alterações estão sendo descri- das, começa a ser esclarecida. Dados dos estudos RA-
+tas nos portadores de IC e que podem influenciar sua evolu- DIANCE, PROVED e DIG mostraram que os pacientes nas
+ção. Volpe e col1 5 observaram aumento nos níveis de eritro- formas mais avançadas são os mais beneficiados com a ma-
+poetina em relação ao agravamento da CF, podendo esse nutenção da terapêutica 23-25 e que nos pacientes com for-
+achado ser responsável pela elevação do hematócrito nos mas discretas da doença, a suspensão do digital provocou
+casos mais avançados de IC. Outra alteração referida é a pequena repercussão (fig. 6).
+elevação de citoquinas 16,17, com o achado de níveis maiores Como o uso do digitálicos não modifica a sobrevida,
+do fator de necrose tumoral, de interleucina-6 e de endote- reduz as hospitalizações de pacientes descompensados e
+linas nas formas mais avançadas da doença. Estas altera- parece de pequeno efeito nas formas leves, os casos com
+ções poderão resultar na caquexia, apresentada nos casos disfunção ventricular assintomáticos podem não obter be-
+mais graves de IC, no entanto, alguns medicamentos como os nefícios com sua prescrição.
+inibidores da ECA, a amiodarona, o vesnarinone e o bosentan Diuréticos - Os diuréticos são medicamentos indis-
+podem modular estas elevações e interferir na evolução da pensáveis para a compensação dos pacientes. Não conhe-
+síndrome 18,19. Finalmente, ressaltamos a resistência à insuli- cemos estudos em que os diuréticos não sejam emprega-
+na naqueles com formas mais avançadas de IC 20. dos. O seu uso, entretanto causa espécie aos médicos. Sem
+Assim, a IC é uma situação clínica complexa, com múl- dúvida, os diuréticos interferem na qualidade de vida de
+tiplos fatores influenciando sua evolução. A intervenção quem o toma. Embora no paciente em anasarca ninguém
+em alguns pacientes, embora possa melhorá-los, não leva questione o seu valor, assim que a dispnéia e o edema são
+ao controle total da doença. controlados procura-se reduzir a sua administração pois o
+seu uso implica em mais idas ao banheiro e cerceia a sua li-
+Tratamento clínico vre locomoção. Devemos destacar seus efeitos colaterais,
+hipopotassemia, elevação da creatinina e ácido úrico,
+O tratamento da IC vem sofrendo modificações através hipotensão, câimbras etc.
+dos anos. No momento, a terapêutica baseada no tripé, digi- Vários estudos vêm demonstrando que nas formas
+tal, diuréticos e inibidores da enzima conversora tem provoca- avançadas de IC o uso correto dos diuréticos é fundamental
+do as melhores respostas, com redução de manifestações clí- para manter o paciente compensado. Dois artigos merecem
+nicas, de necessidade de hospitalizações e de mortalidade 21. destaque: o 1º, quando se comparou a possibilidade de sua
+Nas formas assintomáticas previne o seu aparecimento. suspensão em pacientes com FE maior ou menor que 17%,
+Digital - O papel dos digitálicos na terapêutica da IC foi observou-se que naqueles com FE maior, após 35 dias, so-
+objeto de análise e teve muitos dos seus aspectos recentemen- mente 50% dos pacientes puderam ficar sem a medicação, e
+te esclarecidos. Quatro grandes estudos, DIMT, RADIANCE, aqueles com FE <17% menos de 15% permaneceram com-
+PROVED E DIG fundamentaram o seu emprego clínico 22-25. pensados sem diuréticos 27; o 2º estudo procurou verificar
+Hoje, sabemos que nos portadores de IC sintomáticos, o digital se o tratamento realizado por um grupo de médicos especia-
+reduz a estimulação neuro-humoral, melhora o desempenho fí- lizado no controle de IC, seria superior ao realizado pelos
+sico, reduz hospitalizações e não aumenta sua mortalidade. médicos em geral, constatando que os pacientes ficavam
+Entretanto, alguns aspectos sobre o medicamento não mais estáveis quando controlados pelos especialistas 28. A
+estão totalmente esclarecidos. No estudo DIG, pacientes comparação dos esquemas utilizados mostra que os espe-
+com arritmia apresentaram aumento da mortalidade 25. Esse cialistas prescrevem mais diuréticos, conseguindo assim
+dado sugere que a droga deva ser administrada com cuida- reduzir significativamente o número de internações.
+637
+Barretto & Ramires Arq Bras Cardiol
+Insuficiência cardíaca volume 71, (nº 4), 1998
+Nossa experiência mostrou que a prescrição de tiazídi- estudados 3,4,8,9,29-31. Ainda existe certa divergência sobre a
+cos, drogas menos potentes, mas de efeito mais prolongado, dosagem a ser empregada. Até hoje, os benefícios docu-
+foi importante elemento para manter o paciente compensa- mentados foram obtidos empregando-se doses plenas dos
+do. Através do teste de caminhada de 6 ou 9min, pudemos medicamentos. Doses baixas, como as geralmente utilizadas
+observar que os diuréticos provocaram melhora mais ex- pelos clínicos nos consultório, não tiveram, ainda, seu bene-
+pressiva do desempenho físico em portadores de IC (fig. 7). fício documentado. A desculpa para a não prescrição das
+Inibidores da enzima conversora - São hoje drogas doses preconizadas é, em geral, a hipotensão usual nesses
+consideradas indispensáveis no tratamento da IC, pelos casos ou o medo de que ela possa surgir em decorrência do
+benefícios demonstrados em vários estudos 3,4,29. A prescri- seu emprego 32,33. Dados do estudo ATLAS, apresentado
+ção dos inibidores da ECA em pacientes sintomáticos resul- em 1998 no Congresso do Colégio Americano em Atlanta ,
+ta, entre outras vantagens, na redução dos sintomas, me- confirmaram os maiores benefícios com as doses plenas,
+lhora na qualidade de vida e no desempenho físico, redu- observando-se maior redução da mortalidade cardíaca e
+ção do número de hospitalizações, redução da mortalidade menor número de hospitalizações, quando se comparou
+(fig. 8). Em alguns casos estes resultados decorrem da re- doses altas a baixas.
+dução da dilatação das câmaras ventriculares e da melhora Recentemente, procuramos verificar como esta medi-
+do desempenho cardíaco. cação vinha sendo prescrita para pacientes com IC no
+Mais recentemente, constatou-se que a prescrição nos InCor 34. Constatamos que a maioria dos pacientes estava
+pacientes assintomáticos com disfunção ventricular pode recebendo a medicação nas doses preconizadas pelos
+prevenir o aparecimento dos quadros de IC. Quando com- grandes estudos (fig. 9) e, que, entre os portadores de maior
+parado com placebo, o emprego de inibidores da ECA resul- disfunção ventricular, esta percentagem era ainda maior,
+tou em menor número de internações, redução na evolução demonstrando que, em sua maioria, os pacientes toleram
+para quadros graves, na maioria, e atenuação dos sinais de bem estas dosagens.
+comprometimento cardíaco (fig. 3 e 4). Assim, a prescrição Vale ressaltar que todos estes benefícios foram de-
+dos inibidores da ECA deve ser feita nos vários estágios da monstrados em pacientes com disfunção ventricular com
+IC, com diferentes objetivos: prevenir nas formas iniciais, FE <40%. Para comprometimentos menores não há docu-
+abrandar a evolução e auxiliar no tratamento nas formas mentação de que as drogas sejam vantajosas. Metanálise
+avançadas, inclusive reduzindo sua alta mortalidade. dos dados do estudo SOLVD mostra que quanto menor o
+Essas respostas parecem ser classe dependente, disfunção ventricular, menos evidentes são os benefícios 4.
+tendo sido demonstradas para todos os inibidores da ECA Para pacientes com disfunção ventricular com FE
+>45%, sugerimos que seja realizado acompanhamento clíni-
+co, com reavaliação, em três a seis meses. A demonstração
+de agravamento da função ventricular seria um critério para
+sua prescrição.
+Antagonistas da angiotensina II - São drogas vasodi-
+latadoras, com perfil muito semelhante aos inibidores da
+ECA, com poucos estudos sobre seu emprego, mas os re-
+sultados publicados parecem demonstrar que são uma boa
+opção de tratamento, especialmente para aqueles que não
+toleram os inibidores da ECA. O tratamento com estes anta-
+gonistas modulam a estimulação neuro-humoral aumentada
+Fig. 7 - Gráfico de barras mostrando a distância caminhada em 6min e o aumento desta
+com diuréticos em pacientes descompensados e com inibidores da enzima converso-
+ra em pacientes compensados.
+Fig. 9 - Gráfico mostrando o percentual de pacientes com insuficiência cardíaca, do
+Fig. 8 - Gráfico mostrando redução do número de hospitalizações e de mortalidade ambulatório do INCOR, que tomaram adequadamente os inibidores da ECA. Obser-
+em pacientes tratados com inibidores da enzima conversora. Dados do estudo var que entre os pacientes com menor fração de ejeção foi maior o percentual de pacien-
+CONSENSUS. tes tratados com doses adequadas.
+638
+Arq Bras Cardiol Barretto & Ramires
+volume 71, (nº 4), 1998 Insuficiência cardíaca
+Vários estudos demonstraram que nifedipina, diltia-
+zem e verapamil agravam a situação clínica em portadores
+de disfunção ventricular, com efeitos mais evidentes na-
+queles com maior comprometimento ventricular 39,40. As-
+sim, para pacientes com IC não deveremos prescrever es-
+tas drogas.
+Os antagonistas de canais de cálcio de segunda gera-
+ção, amlodipina, felodipina, por possuírem perfil diferente,
+parecem não piorar a IC, entretanto seus benefícios são
+questionados 41-43. Nos estudos VHeFT III e PRAISE,
+Fig. 10 - Gráfico mostrando a mortalidade observada nos estudos ELITE e
+felodipina e amlodipina não modificaram a mortalidade dos
+RESOLVD com inibidores da enzima conversora e inibidores da angiotensina II.
+pacientes quando comparados a placebo, entretanto al-
+guns apresentaram edema de membros inferiores. Assim,
+torna-se prudente suspender os antagonistas dos canais de
+e reduzem as alterações hemodinâmicas características da cálcio sempre que identificarmos disfunção ventricular.
+IC, com efeitos semelhante aos inibidores da ECA. Betabloqueadores - Controversa tem sido a indicação
+Estudos comparativos entre os antagonistas da de betabloqueadores no tratamento de portadores de IC.
+angiotensina II e os inibidores da ECA, procurando identifi- Embora tenham efeitos inotrópicos negativos, vários traba-
+car qual dos dois seria a melhor opção terapêutica, têm trazi- lhos têm demonstrado que a sua prescrição pode induzir
+do resultados não homogêneos. melhora aos pacientes 44,45.
+Dois estudos recentes mostram esta diferença (fig. 10). O recém apresentado estudo RESOLVD esclarece, um
+O estudo ELITE comparou o losartan ao captopril, demons- pouco mais, como esta droga pode ser útil no tratamento da
+trando que o losartan reduziu mais a mortalidade 35. Já o es- IC 36. Os pacientes com prescrição de metoprolol apresenta-
+tudo RESOLVD mostrou que o candesartan reduz menos a ram menor mortalidade que os com placebo, entretanto na
+mortalidade que o enalapril 36. Vale ressaltar que nenhum fase inicial necessitaram mais hospitalizações para controle
+dos estudos apresentou resultados definitivos, pois ambos da IC (fig. 11). A curva de hospitalizações, nos cinco meses
+não eram estudos de avaliação de mortalidade. Assim, o de estudo, mostra que elas vão reduzindo, para no final da
+mais prudente seria utilizar os antagonistas da angiotensina observação tornar-se menor nos pacientes com metoprolol,
+II para aqueles que não toleram os inibidores da ECA e, não que no grupo controle. Assim este estudo, mais uma vez,
+no lugar destes, como primeira escolha, até que tenhamos demonstrou que os benefícios dos betabloqueadores são
+melhor documentação de seus reais benefícios. De qual- tardios, e que no início do tratamento, podem provocar ins-
+quer forma é uma boa opção para aqueles que não toleram tabilidade clínica, embora possam reduzir a mortalidade.
+os inibidores da ECA. O aumento da estimulação simpática, documentada
+Outros vasodilatadores - Estudo empregando a associa- através de aumento nos níveis de adrenalina e noradrena-
+ção de dinitrato de isossorbida à hidralazina foi o primeiro a lina, indica pior prognóstico, porém parte deste aumento
+salientar que a terapêutica com vasodilatadores poderia redu- pode ter papel na compensação dos pacientes e sua redu-
+zir a mortalidade dos portadores de IC (estudo VHeFT) 37. O ção pode provocar ainda maior descompensação. Por ou-
+seu inconveniente resulta no grande número de comprimidos tro lado, esta estimulação pode ser responsável por maior
+diários necessários para obtenção do efeito desejado. Poste- incidência de arritmias observada nas formas avançadas
+riormente, o estudo VHeFT II veio mostrar que os inibidores de IC e sua redução pode explicar a menor mortalidade ob-
+da ECA eram mais potentes que essa associação; entretanto, servada nos estudos, especialmente de morte súbita,
+continuam sendo uma boa opção terapêutica, especialmente
+para aqueles que não toleram os inibidores da ECA 38.
+Para pacientes com formas avançadas de IC, associar
+vasodilatadores pode permitir uma melhor compensação.
+Assim, associado aos inibidores da ECA podemos prescre-
+ver ou dinitrato ou hidralazina ou os dois.
+Flosequinan é outra droga vasodilatadora, mais recen-
+temente desenvolvida, mas que estudos de sobrevida de-
+monstraram que pode aumentar a mortalidade quando usa-
+da de modo crônico 38.
+Antagonistas dos canais de cálcio - Considerados
+como drogas inócuas pela maioria dos médicos, são muito
+utilizados para tratamento de hipertensão arterial ou insufi-
+ciência coronária. Nos pacientes com disfunção ventricular,
+entretanto, crescem evidências de que são medicamentos Fig. 11 - Dados do estudo RESOLVD mostrando, durante as 22 semanas, aumento do
+número de hospitalizações e redução da mortalidade no grupo de pacientes que teve
+que podem agravar a evolução dos pacientes.
+prescrição de betabloqueadores.
+639
+Barretto & Ramires Arq Bras Cardiol
+Insuficiência cardíaca volume 71, (nº 4), 1998
+freqüentemente demonstrada nos grupos com prescrição cute o seu valor nos sintomáticos devido à arritmia, mas
+de betabloqueadores. naqueles assintomáticos, o emprego de anti arrítmicos, nos
+Mais recentemente, uma nova família de betabloquea- estudos tem mostrado resposta não uniforme. Amiodarona
+dores foi desenvolvida, apresentando, além dos efeitos em alguns estudos apresenta redução de mortalidade, em
+clássicos, efeito vasodilatador 46-48. Vários estudos têm de- outros, não. Dois estudos merecem destaque: o GESSICA e
+monstrado que carvedilol, bucindolol, etc., quando empre- CHF-STAT 55-57. No 1º, a amiodarona induziu redução de
+gados em pacientes com IC, induzem redução da estimula- mortalidade e no 2º, não. Análise das diferenças dos dois es-
+ção neuro-humoral, melhora clínica, e do desempenho físico, tudos parecem mostrar que os pacientes do estudo GESICA
+reduzem hospitalizações e a mortalidade. Vale ressaltar, entre- apresentavam maior comprometimento ventricular, de tal for-
+tanto, que também com estas drogas, o início da terapêutica ma que pode–se supor que naqueles com maior comprome-
+pode ser tormentosa. Recente estudo demonstrou que so- timento ventricular, que inclusive apresentam mais arritmia,
+mente 50% dos pacientes em CF IV toleraram a droga 49. a droga poderia ser prescrita, de maneira profilática, para
+Inotrópicos - Devem ser evitados em pacientes com- reduzir sua mortalidade.
+pensados, pois todos os estudos de sobrevida mostram Anticoagulantes - É outro tema controverso. A sua
+aumento da mortalidade com seu uso crônico (fig. 12). Pare- prescrição teria como objetivo reduzir fenômenos trombo-
+ce ser uma resposta de grupo, pois estudos com dopamina, embólicos, que seriam freqüentes e de importância
+dobutamina, anrinone, miorinone, vesnarinone, ibopamina prognóstica nos portadores de IC. Não há dúvidas de que
+etc. mostraram aumento de mortalidade 5,50-54. na fase final ocorre um aumento dos quadros tromboem-
+Os estudos demonstram também que as drogas me- bólicos, dado este amplamente demonstrado através de
+lhoram a situação clínica dos pacientes, que ficam melhor estudos de necropsia que documentam a presença de
+compensados, apresentam melhor desempenho físico, ne- trombos e embolias, na maioria dos pacientes falecidos
+cessitam menos hospitalizações, enfim, apresentam me- com IC. A controvérsia surge quando não se documenta
+lhor qualidade de vida. Seus resultados abrem a questão, grande número de embolias na evolução dos portadores
+se pelo aumento da mortalidade essas drogas não deveriam de IC. Nos grandes estudos multicêntricos, a incidência de
+mais ser prescritas aos portadores de IC. Pelo aumento de tromboembolismo raramente atinge 5% dos casos em um
+mortalidade que induzem, não devem ser administradas em ano 58,59. Com esta baixa incidência relativa ao uso de
+pacientes compensados, mas em pacientes com IC avan- anticoagulantes na maioria dos casos, frente à incidência
+çada de difícil controle. Sua prescrição pode melhorar a de efeitos colaterais, deixa de ser uma indicação com bene-
+qualidade de vida nos pacientes em que ela é muito ruim. fícios comprovados.
+Há pesquisadores que propõem nas formas avançadas, Assim, no momento não há consenso sobre a necessi-
+como objetivo do tratamento à melhora da qualidade de dade de se prescrevê-los para todos os casos de IC. Há aque-
+vida, mesmo que com discreto aumento de mortalidade. les que defendem sua prescrição nos pacientes de acentua-
+Na verdade, este aumento não é muito grande com algu- do comprometimento ventricular e para aqueles com
+mas drogas, como a ibopamina ou com a pulsoterapia com fibrilação atrial, mas não há dúvidas do seu valor em casos de
+dobutamina, assim, seus resultados clínicos apóiam sua anterior embolia ou para aqueles em que se documenta um
+prescrição em pacientes graves 53. trombo intracavitário protuso em câmaras cardíacas 60.
+O aumento da mortalidade parece estar relacionado ao
+aumento de arritmias. No estudo PRIME II, o aumento de mor- Tratamento cirúrgico
+talidade foi observado em pacientes que previamente apresen-
+tavam arritmia e não naqueles que não a apresentavam 50. Não podemos nos esquecer que a correção da causa
+Anti-arrítmicos - O seu emprego em pacientes com IC, da IC modifica sobremaneira a historia natural da doença.
+de maneira preventiva, é assunto controverso. Não se dis- Assim, a correção da valvopatia ou a revascularização
+miocárdica pode ser salvadora para muitos 6.
+Para os pacientes com importante disfunção ventricu-
+lar, esgotados os procedimentos clínicos, três procedimen-
+tos cirúrgicos podem ser cogitados: o transplante cardíaco,
+a ventriculectomia parcial e a cardiomioplastia 61-64.
+O transplante cardíaco dos três procedimentos é
+aquele com indicações mais precisas e com resultados ple-
+namente documentados. Apesar das dificuldades para sua
+realização e de suas contra-indicações, é um dos melhores
+processos de se mudar a história natural da IC, nos porta-
+dores de formas avançadas, reconhecidamente uma doença
+de característica maligna 61.
+A cardiomioplastia tem grandes limitações pelo custo
+do estimulador e pelas contra-indicações para pacientes
+Fig. 12 - Gráfico mostrando aumento de mortalidade com os diferentes inotrópicos. com formas avançadas.
+640
+Arq Bras Cardiol Barretto & Ramires
+volume 71, (nº 4), 1998 Insuficiência cardíaca
+lhor, poderá ser um grande avanço para uma melhor seleção
+dos pacientes para este procedimento.
+Considerações finais
+Avançamos muito nos últimos anos no controle da IC.
+Hoje o tratamento é melhor fundamentado. Entretanto, mui-
+tos médicos ainda não utilizam corretamente os esquemas
+preconizados, especialmente os generalistas 34,65-67.
+Seria necessário encaminhar os pacientes com IC para
+Fig. 13 - Curva de sobrevida de pacientes submetidos a ventriculectomia parcial. Da- grupos especializados para orientação? Algumas revisões têm
+dos do grupo de transplante do INCOR. demonstrado que especialmente nos casos mais graves, equi-
+pes especializadas orientam melhor os pacientes. A otimização
+da terapêutica, com aumento das doses de inibidores da ECA e
+A ventriculectomia é técnica, relativamente nova,
+de diuréticos resulta em maior estabilidade dos pacientes e em
+com resultados ainda não totalmente definidos (fig. 13). Os
+menor número de descompensações. Estes resultados, na ver-
+dados publicados mostram, por um lado, que os pacientes
+dade, mostram a importância de uma correta orientação para a
+que a toleram, apresentam importante melhora clínica e, por
+obtenção dos resultados desejados, sempre mais facilmente
+outro lado, a mortalidade ainda é muito alta (cerca de 40% em
+observados nos casos mais graves pela sua maior instabilida-
+seis meses).
+de. Nos formas iniciais deve ocorrer o mesmo processo, mas a
+São auspiciosos os resultados que parecem identifi- percepção não é tão fácil, pois a reserva funcional dos pacien-
+car que pacientes que evoluem mal apresentam fibras tes não torna evidente que estejam submetidos à dosagem in-
+miocárdica mais afiladas. A comprovação de que através de suficiente de medicamentos. É provável que melhor medicados
+biópsia seja possível identificar aqueles que evoluiriam me- muitos não evoluiriam para formas avançadas.
+Referências
+1. Bocchi EA - Situação atual das indicações e resultados do tratamento cirúrgico 14. Verdecchia P, SchillaciG, Borgioni C et al - Prognostic value of left ventricular
+da insuficiência cardíaca. Arq Bras Cardiol 1994; 63: 523-30. mass and geometry in systemic hypertension with left ventricular hypertrophy.
+2. Veloso LGC - Repercussão nutricional na miocardiopatia dilatada: estudo de Am J Cardiol 1996; 78: 197-202.
+indicadores do estado nutricional na insuficiência cardíaca em fase avançada. 15. Volpe M, Tritto C, Testa U et al - Blood levels of erythropoietin in congestive heart
+Tese doutoramento. Faculdade de Medicina da Universidade de São Paulo. São failure and correlation with clinical, hemodynamic, and hormonal profiles. Am J
+Paulo, 1996. Cardiol 1994; 74: 468-73.
+3. The CONSENSUS Trail Study Group - Effect of enalapril on mortality in severe 16. Matsumori A - The use of cytokine inhibitors. A new therapeutic insight into
+congestive heart failure: results of the Cooperative North Scandinavian Enalapril heart failure. Intern J Cardiol 1997; 62(suppl I): 3-12.
+Survival Study (CONSENSUS). N Engl J Med 1987; 316: 1429-35. 17. Levin ER – Endothelins. N Engl J Med 1995; 333: 356-63.
+4. The SOLVD Investigators - Effect of enalapril on survival in patients with 18. Volterrani M, Desenzani P, Lorusso R et al - Haemodynamic effects of intavenous
+reduced left ventricular ejection fraction and congestive hear failure. N Engl J growth hormone in congestive heart failure. Lancet 1997; 349: 1067-8.
+Med 1991; 325: 293-302. 19. Matsumori A, Ono K, Nishio R et al - Amiodarone inhibits production of tumor
+5. Packer M, Carver JR, Rodeheffer RJ et al - Effect of oral milrinone on mortality in necrosis factor alpha by mononuclear cells. A possible mechanism for its effect in
+severe chronic heart failure. N Engl J Med 1991; 325: 1468-75. heart failure. Circulation 1997; 96: 1386-9.
+6. Smith TW, Kelly RA, Stevenson LW, Braunwald E - Management of heart failure. 20. Swan JW, Anker SD, Walton C et al - Insulin resistance in chronic heart failure:
+In Braunwald E (ed) - Heart Disease: A Textbook of Cardiovascular Medicine, 5th Relation to severity and etiology of heart failure. J Am Coll Cardiol 1997; 30: 527-32.
+ed. Philadelphia: WB Saunders, 1997: 492-514. 21. Cohn JN - The management of chronic heart failure. N Engl J Med 1996; 335: 490-8.
+7. Stewart AL, Greenfield S, Hays RD et al - Functional status and well-being of 22. van Velhuisen DJ, Man in’T Veld AJM, Dunselman PHJM et al - Double blind
+patients with chronic conditions: results from the medical outcomes study. J Am placebo controlled study of ibopamine and digoxin in patients with mild to
+Med Assoc 1989; 262: 907-12. moderate heart failure: results of the Dutch Ibopamine Multicentre Trial (DIMT).
+8. The SOLVD Investigators - Effect of enalapril on mortality and the development J Am J Coll Cardiol 1993; 22: 1564-73.
+of heart failure in asymptomatic patients with reduced left ventricular ejection 23. Packer M, Gheorguiade M, Young JB et al - Withdrawal of digoxin from patients
+fraction. N Engl J Med 1992: 327: 685-91. with chronic heart failure treated with angiotensin converting-enzyme
+9. Pfeffer MA, Braunwald E, Moye LA et al - Effect of captopril on mortality and inhibitors. N Engl J Med 1993; 329: 1-7.
+morbidity in patients with left ventricular dysfunction after myocardial 24. Uretsky BF, Young JB, Shahidi et al - Randomized study assessing the effect of
+infarction. Results on the survival and ventrivular enlargement trial (SAVE). N digoxin withdrawal in patients with mild to moderate chronic congestive heart
+Engl J Med 1992; 327: 669-77. failure: results of the PROVED trial. J Am Coll Cardiol 1993; 22: 955-62.
+10. Kao W, Costanzo MR - Prognosis determination in patients with advanced heart 25. The Digitalis Investigation Group - The effect of digoxin on mortality and
+failure. J Heart Lung Transpl 1997; 16(suppl 1): S2-S6. morbidity in patients with heart failure. N Engl J Med 1997; 336: 525-33.
+11. Lage SHG, Kopel L, Carvalho MM - Fisiopatologia da insuficiência cardíaca. 26. Banerjee AK, Campbell RWF - Digoxin therapy and survival in heart failure in
+In: Sousa AGMR, Mansur AJ - SOCESP Cardiologia, 2º volume. São Paulo: sinus rhythm. Intern J Cardiol 1996; 55: 9-13.
+Atheneu, 1996: 34-41. 27. Grinstead WC, Francis MJ, Marks GF et al - Discontination of chronic diuretic
+12. Swedberg K, Enoroth P, Kjekshus J et al - Hormones regulating cardiovascular therapy in stable congestive heart failure secondary to coronary artery disease or
+function in patients with severe congestive heart failure and their relation to to idiopathic dilated cardiomyopathy. Am J Cardiol 1994; 73: 881-6.
+mortality. Circulation 1990; 82; 1730-6. 28. Hanumanthu S, Butler J, Chomsky D et al - Effect of a heart failure program on
+13. Francis GS, Benedict C, Johnstone et al - Comparison of neuroendocrine hospitalization frequency and exercise tolerance. Circulation 1997; 96: 2842-8.
+activation in patients with left ventricular dysfunction with and without 29. The Acute Infarction Ramipril Efficaccy (AIRE) Study Investigators - Effect of
+congestive heart failure: a sub-study of Left Ventricular Dysfunction (SOLVD). ramipril on mortality and morbidity of survivors of acute myocardial infarction
+Circulation 1990; 82: 1724-9. with clinical evidence of heart failure. Lancet 1993; 342: 821-8.
+641
+Barretto & Ramires Arq Bras Cardiol
+Insuficiência cardíaca volume 71, (nº 4), 1998
+30. Kober L, Torp-Pedersen C, Carlsen JE et al - A clinical trial of the angiotensin 48. Lechat P, Escolano S, Golmart JL et al - Prognostic value of bisoprolol-induced
+converting enzyme inhibitor trandolapril in patients with left ventricular hemodynamic effects in heart failure during the cardiac insufficiency bisoprolol
+dysfunction after myocardial infarction. N Engl J Med 1995; 333: 1670-6. study (CIBIS). Circulation 1997; 96: 2197-2205.
+31. Ambrosiani E, BorghiC, Magnani B for the SMILE Study Investigators Group - 49. MacDonald PS, Keogh AM, Aboyoun C et al - Tolerability and efficaccy of
+The effect of the angiotensin converting enzyme inhibitor zofenopril on mortality carvedilol in NYHA class IV heart failure. Circulation 1997; 96(suppl I): 577.
+and morbidity after anterior myocardial infarction N Engl J Med 1995; 332: 80-5. 50. Feldman AM, Bristow MR, Parmley WW et al - Effects of vesnarinone on morbidity
+32. Pacher R, Globits S, Bligher-Klein JR et al - Clinical and neurohumoral response and mortality in patients with heart failure N Engl J Med 1993; 329: 149-55.
+of patients with severe congestive heart failure treated with two different 51. Hampton JR, van Veldhuisen DJ, Kleber FX et al - Randomised study of effect of
+captopril dosages. Eur Heart J 1993; 14: 273-8. ibopamine on survival in patients with advanced severe heart failure. Lancet
+33. Cleland JGF, Poole-Wilson PA - ACE inhibitors for heart failure: a question of 1997; 349: 971-7.
+dose. Br Heart J 1994; 72(suppl): 106-10. 52. Packer M - The search for ideal positive inotropic agent. N Engl J Med 1993;
+34. Pereira Barretto AC, Wajngarten M, Serro-Azul JB et al - Tratamento medicamen- 329: 201-2.
+toso da insuficiência cardíaca em hospital terciário de São Paulo. Arq Bras 53. Pereira Barretto AC, Veloso LG - Inotrópicos não devem ser prescritos? Arq
+Cardiol 1997; 69: 375-9. Bras Cardiol 1997; 69: 255- 6.
+35. Pitt B, Segal R, Martinez FA et al - Randomized trial of losartan versus captopril in 54. Marius-Nunez AL, Heaney L, Fernandez RN et al - Intermittent inotropic therapy
+patients over 65 with heart failure (Evaluation of Losartan in the Elderly Study, in an outpatient setting: A cost-effective therapeutic modality in patients with
+ELITE). Lancet 1997; 349: 747-52. refractory heart failure. Am Heart J 1996; 132: 805-8.
+36. Yusuf S, Hamilton ON, Maggioni A et al - Effects of candesartan, enalapril or their 55. Dowal HC, Nul DR, Grancelli HO et al - Randomized trial of low dose amiodarone
+combination on exercise capacity, ventricular function, clinical deterioration in severe heart failure. Lancet 1994; 355: 493-8.
+and quality of life in heart failure: Randomized evaluation of strategies for left 56. Singh SN, Fletcher RD, Fisher SG et al - Amiodarone in patients with
+ventricular dysfunction (RESOLVD) Circulation 1997; 96(suppl I): 452. congestive heart failure and asymptomatic ventricular arrhythmia N Engl J
+37. Cohn JN, Archibald DG, Ziesche S et al - Effect of vasodilator therapy on Med 1995; 333: 77-82.
+mortality in chronic congestive heart failure. Results of a Veterans Administra- 57. Sim I, McDonald KM, Lavori PW et al - Quantitative overview of randomized trial
+tion Cooperative Study (V- HeFT). N Engl J Med 1986; 314: 1547-52. of amiodarone to prevent sudden cardiac death. Circulation 1997; 96: 2823-9.
+38. Cohn JN, Archibald DG, Zusche S et al - A comparison of enalapril with 58. Natterson PD, Stevenson WG, Saxon LA et al - Risk of arterial embolization in
+hidralazine-isosorbide dinitrate in the treatment of chronic congestive heart 224 patients awaiting cardiac transplantation. Am Heart J. 1995; 129: 564-70.
+failure. N Engl J Med 1991; 325: 303-10. 9. Cioffi G, Pozzoli M, Forni G et al - Systemic thromboembolism in chronic heart
+39. Packer M Rouleau , Swedberg et al - Effect of flosequinan on survival in failure. A prospective study in 406 patients. Eur Heart J 1996; 17: 1381-9.
+chronic heart failure: preliminary results of the PROFILE Study. Circulation 60. Pereira Barretto AC, Canesin M - Fenomenos embólicos de origem cardíaca:
+1993; 88 : I301. incidência e prevenção na insuficiência cardícaca. Rev Soc Cardiol Est SP
+40. Epstein M - Calcium antagonists should continue to be used for first-line 1997; 7: 431-7.
+trreatment of hypertension. Arch Intern Med 1995; 155: 2150-6. 61. Chaccur P - Registro da Sociedade internacional de transplante de coração e
+41. Packer M, O’Connor CM, Ghali JK et al - Effect of amlodipine on morbidity and pulmão: experiência mundial com transplante cardíaco. Rev Soc Cardiol Est SP
+mortality in severe chronic heart failure. N Engl J Med 1996; 335: 1107-14. 1995; 5: 702-6.
+42. Cohn JN, Ziesche S, Smith R et al - Effect of the calcium antagonist felodipine as 62. Furnary AP, Jessup M, Moreira LFP - Multicenter trial of dynamic cardiomyo-
+supplementary vasodilator therapy in patients with chronic heart failure treated plasty for chronic heart failure. J Am Coll Cardiol 1996; 28: 1175-80.
+with enalapril (V-HeFT III). Circulation 1997; 96: 856-63. 63. Bacal F, Bocchi EA, Moraes AV et al - Ventriculectomia parcial: seguimento
+43. Muldler P - Increased survival after long term treatment with mibefradil, a clínico inicial. Arq Bras Cardiol 1996; 67(supl I): 125.
+selective T channel calcium antagonist in heart failure. J Am Coll Cardiol 1997; 64. Bestetti RB, Brasil JCF, Bombonato R - Ventriculectomia parcial esquerda.
+29: 416-21. Resultados atuais, possíveis indicações e perspectivas futuras. Arq Bras Cardiol
+44. EichhornEJ, Bristow MR - Practical guidelines for initiation of beta-adrenergic 1997; 69: 295-7
+blockade in patients with chronic heart failure. Am J Cardiol 1997; 79: 794-8. 65. Stevenson WG, Stevenson LW, Middlekauff HR et al - Improving survival for
+45. Waagstein F, Bristow MR, Swedberg K et al - Beneficial of metoprolol in patients with advanced heart failure: a study of 737 consecutives patients. J Am
+idiopathic dilated cardiomyopathy. Lancet 1993; 342: 1441-6. Coll Cardiol 1995; 26: 1417-23.
+46. Collucci WS, Packer M, Bristow MR et al - Carvedilol inhibits clinical 66. Fonarow GC, StevensonLW, Walden JÁ et al - Impact of a comprehensive heart
+progression in patients with mild symptoms of heart failure. Circulation 1996; failure management program on hospital readmission and functional status of
+94: 2800-6. patients with advanced heart failure. J Am Coll Cardiol 1997; 30: 725-32.
+47. Bristow MR, Gilbert EM, Abraham WT et al - Carvedilol produces dose-related 67. Edep ME, Shah NB, Tateo IM, Massie BM - Differences between primary care
+improvements in left ventricular function and survival in subjects with chronic physicians and cardiologist in management of congestive heart failure. Relation
+heart failure. Circulation 1996; 94: 2807-16. to practice guidelines. J Am Coll Cardiol 1997; 30: 518-26.
+642
